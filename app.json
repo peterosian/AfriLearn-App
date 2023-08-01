@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "StudyApp",
+    "slug": "StudyApp",
+    "extra": {
+      "eas": {
+        "projectId": "543c85c2-6379-4432-a6d2-dfebf538cf83"
+      }
+    },
+    "android": {
+      "package": "com.peterOsian.AfriLearn"
+    }
+  }
+}
